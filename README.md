@@ -37,7 +37,7 @@ The implementation uses **Kruskal’s algorithm** and a **Union-Find (Disjoint S
 
 ## How to Run
 
-### 1️⃣ Clone this repository
+###  Clone this repository
 ```bash
 git clone https://github.com/yourusername/MSTEdgeRemoval.git
 cd MSTEdgeRemoval
